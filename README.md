@@ -27,6 +27,4 @@
 
 ## <a name="products">Products</a>
 
-   * **Car lease in Poland**, *14 November 2016, Poland*: co do auta w leasingu czy tez w dzialalnosci to ilosc odliczen jest taka: kwota netto auta idzie w calosci w koszty (czyli odzyskujesz od niej 19%) a z VATu odzyskuje sie 50% (zgodnie z wymogami UE maja zmienic na 100%). Paliwo do auta w takich samych proporcjach. Roznica podstawowa miedzy leasingiem i kupnem na kredyt jest taka, ze jak masz leasing, to wrzucasz co miesiac fakture. np. bierzesz leasing na rok, to cale auto rozliczasz w ciagu tego roku. Przy czym firmy leasingowe zazwyczaj zadaja duzej kwoty wykupu przy leasingu na rok. i wtedy te kwote musisz amortyzowac. (...) kwota wykupu jak najnizsza, to bylo mozliwe przy leasingu na min. 3 lata. W przypadku gdy auto bierzesz w kredyt lub kupujesz za gotowke - musisz je amortyzowac. kwota odliczen jest taka sama, ale rozlozona na pare lat (z tego co pamietam 5)
-
 ## <a name="services">Services</a>
